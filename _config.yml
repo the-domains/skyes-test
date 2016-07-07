@@ -1,0 +1,14 @@
+layout_spectrum: 0.4586570120882243
+typography_spectrum: 0.6190554348286241
+color:
+  brandStrength: 0.5809559333138168
+  lightness: 0.6605156708974391
+  saturation: 0.10468118591234088
+  rhythmicContrast: 0.4772604228928685
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Skye's test
